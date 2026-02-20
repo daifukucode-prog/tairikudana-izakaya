@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /api/
+Disallow: /staff-only/
+
+Sitemap: https://tairikudana-izakaya.vercel.app/sitemap.xml
